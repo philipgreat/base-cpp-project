@@ -1,0 +1,3 @@
+/Users/Philip/githome/base-cpp-project/release/CMakeFiles/rebuild_cache.dir
+/Users/Philip/githome/base-cpp-project/release/CMakeFiles/edit_cache.dir
+/Users/Philip/githome/base-cpp-project/release/CMakeFiles/calculator-app.dir
